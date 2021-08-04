@@ -1,0 +1,13 @@
+{
+  "name": "graphql-study",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon ./api/index.js"
+  },
+  "devDependencies": {
+    "json-server": "^0.16.3",
+    "nodemon": "^2.0.12"
+  }
+}
